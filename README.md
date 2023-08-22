@@ -1,6 +1,6 @@
 # UpHomesForTaipei
 
-A new Flutter project.
+A new Flutter project.   Download zip file can get whole file for this project. 
 
 ## Getting Started
 
