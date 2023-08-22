@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "214412197619",
+    "project_id": "uphomes-ca381",
+    "storage_bucket": "uphomes-ca381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214412197619:android:ebac9f2aa60e0711474186",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214412197619-uvgcslvl6grnccoepa52rh8kk2obji0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-En145ethTWUzrd0Q9ZGCpNCqnZVVIu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214412197619-uvgcslvl6grnccoepa52rh8kk2obji0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214412197619-kahdnkeu7kv6e9onu73l8bn7t4d1ch2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
